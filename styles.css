@@ -1,0 +1,53 @@
+body{
+    margin:0;
+    background-image: url("https://images5.alphacoders.com/129/1292711.png");
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+header{
+    text-align: center;
+    background: black;
+    padding: 10px;
+}
+h1{
+    font-size: 36px;
+    color: red;
+    font-family: "Merienda", cursive;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+.post1, .post2, .post3{
+    background: white;
+    width: 500px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 1px 3px 7px white;
+}
+img{
+    width:100%
+}
+.cabecera{
+    display: flex;
+}
+h2{
+    width: 80%;
+    display: inline-block;
+    margin:0;
+    padding-left: 10px;
+}
+.cabecera p{
+    width: 20%;
+    display: inline-block;
+    margin:0;
+    text-align: right;
+    padding:5px 10px 5px 5px;
+    color: grey
+}
+.piedefoto{
+    display: flex;
+}
+.piedefoto p{
+    margin: 10px 10px 10px 10px;
+}
